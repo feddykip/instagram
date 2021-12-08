@@ -19,4 +19,7 @@ Ferdinand Kiplangat
 ## Installation
 Git clone this repo in your computer's terminal, then cd into the project you cloned: git clone https://github.com/feddykip/instagram.git
 
+## Live Site
+View [live](https://fed-insta.herokuapp.com/)
+
 
