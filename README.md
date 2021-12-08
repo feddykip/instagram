@@ -16,6 +16,7 @@ Ferdinand Kiplangat
 2. Upload  pictures to the application.
 3. View profile with all uploaded pictures.
 
-
+## Installation
+Git clone this repo in your computer's terminal, then cd into the project you cloned: git clone https://github.com/feddykip/instagram.git
 
 
