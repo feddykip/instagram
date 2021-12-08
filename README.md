@@ -22,4 +22,4 @@ Git clone this repo in your computer's terminal, then cd into the project you cl
 ## Live Site
 View [live](https://fed-insta.herokuapp.com/)
 
-
+## License
