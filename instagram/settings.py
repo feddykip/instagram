@@ -159,6 +159,11 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
+CLOUDINARY_STORAGE = {
+    'CLOUD_NAME': 'feddykip',
+    'API_KEY': '827927387212451',
+    'API_SECRET': 'wvhn4Wa6wRDe95SmVG2NZTmUsWQ',
+}
 
 cloudinary.config( 
   cloud_name="feddykip", 
